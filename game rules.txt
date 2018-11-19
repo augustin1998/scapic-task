@@ -12,6 +12,6 @@ GAME RULES:
 
 
  SOME OF THE SKILLS USED IN THIS PROJECT:
-- JavaScript concepts.
+- JavaScript  
 - DOM modification concepts such as querySelector, getElementById, classList.
 - Eventlistener.
