@@ -54,7 +54,7 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
         
         // Checking if the player is winning
         if (scores[activePlayer] >= winningScore) {
-            document.querySelector('#name-' + activePlayer).textContent = 'Winner!';
+            document.querySelector('#name-' + activePlayer).textContent = 'Scapic Winner!';
             document.getElementById('dice-1').style.display = 'none';
             document.getElementById('dice-2').style.display = 'none';
             document.querySelector('.player-' + activePlayer + '-panel').classList.add('winner');
