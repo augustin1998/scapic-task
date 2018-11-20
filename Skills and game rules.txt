@@ -6,12 +6,13 @@ GAME RULES:
     *But,both the players can change the winning score at any point of time in the game.
 - The player can choose to 'Hold', which means that his ROUND score gets added to his TOTAL score. After that, it's the next player's turn
 
-- The player looses his current score when one of the two dice  is  1
+- The player looses his current score when one of the two dice  is  1.
 
 
 
 
  SOME OF THE SKILLS USED IN THIS PROJECT:
-- JavaScript  
+- JavaScript.  
 - DOM modification concepts such as querySelector, getElementById, classList.
 - Eventlistener.
+- HTML & CSS.
